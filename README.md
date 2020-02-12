@@ -1,2 +1,2 @@
 # Multipeer-Experience
-Multipeer Experience in Swift
+Multipeer Experience in Swift making a "chat"
